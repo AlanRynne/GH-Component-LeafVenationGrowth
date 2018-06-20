@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{42E64000-D3B1-400F-B831-01A017877A1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeafVenationGrowthComponent.cs">
+    <Files>
+      <File FileName="LeafVenationGrowthComponent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LeafVenationGrowth PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
